@@ -1,1 +1,1 @@
-# Clock made using html, css, and javascript.
+Clock made using html, css, and javascript.
